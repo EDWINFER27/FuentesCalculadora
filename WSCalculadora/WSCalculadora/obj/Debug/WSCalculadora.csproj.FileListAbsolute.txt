@@ -1,0 +1,6 @@
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\bin\WSCalculadora.dll.config
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\bin\WSCalculadora.dll
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\bin\WSCalculadora.pdb
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\obj\Debug\WSCalculadora.csprojResolveAssemblyReference.cache
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\obj\Debug\WSCalculadora.dll
+c:\users\edwin1\documents\visual studio 2013\Projects\WSCalculadora\WSCalculadora\obj\Debug\WSCalculadora.pdb
